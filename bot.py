@@ -65,6 +65,9 @@ while True:
 
         nitroFile.close()
 
+while True:
+    nitrocode = ''
+    
 with open("nitros-valid.txt") as file:
     for line in file.readlines():
         nitrocode = line.strip("\n")
@@ -74,6 +77,6 @@ with open("nitros-valid.txt") as file:
         r = requests.get(url)
 
         if r.status_code == 200:
-            print(f"\n\n Valid | {nitrocode}\n\n") 
-        else:
-            print(f"*", end = "")   
+            print(f"\n\n Valid | {nitrocode}\n\n")
+        file.write(f"https://discord.gift/{nitrocode}\n")
+        file.close()
