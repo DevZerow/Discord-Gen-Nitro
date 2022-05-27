@@ -64,19 +64,3 @@ while True:
         nitroFile.write(f"https://discord.gift/{nitrocode}\n")
 
         nitroFile.close()
-
-while True:
-    nitrocode = ''
-    
-with open("nitros-valid.txt") as file:
-    for line in file.readlines():
-        nitrocode = line.strip("\n")
-
-        url = f"https://discordapp.com/api/v9/entitlements/gift-codes/{nitrocode}?with_application=false&with_subscription_plan=true"
-
-        r = requests.get(url)
-
-        if r.status_code == 200:
-            print(f"\n\n Valid | {nitrocode}\n\n")
-        file.write(f"https://discord.gift/{nitrocode}\n")
-        file.close()
