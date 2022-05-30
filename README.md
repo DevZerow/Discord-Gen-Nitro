@@ -9,7 +9,7 @@ LE LOGICIEL EST FOURNI « EN L'ÉTAT », SANS GARANTIE D'AUCUNE SORTE, EXPLICITE
 - 👀 Je suis intéressé par le codage et l'hébergement
 - 🌱 j'apprends actuellement python / C# / java
 - 💞️ Je cherche à collaborer avec un hébergeur bot discord
-- 📫 Pour m'atteindre : E-Mail : zerow.pro@protonmail.com / Discord : Zerow - Hosting-for-all.com#6695
+- 📫 Pour m'atteindre : E-Mail : zerow.pro@protonmail.com / Discord : Zerow#6695
  
  ███████╗███████╗██████╗░░█████╗░░██╗░░░░░░░██╗
 ╚════██║██╔════╝██╔══██╗██╔══██╗░██║░░██╗░░██║
